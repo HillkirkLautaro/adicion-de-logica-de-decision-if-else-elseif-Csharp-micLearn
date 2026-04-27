@@ -1,0 +1,13 @@
+./bin
+/bin
+/obj
+/vs-code
+/.vs
+/.vscode
+/.idea
+/.vscode-test
+/.vscode-test-insiders
+/.vscode-test-exploration
+/.vscode-test-insiders-exploration
+/.vscode-test-exploration-insiders
+/.vscode-test-insiders-exploration-insiders
