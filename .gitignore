@@ -1,6 +1,10 @@
-./bin
-/bin
-/obj
+
+/mejora-de-software/bin
+/mejora-de-software/obj
+/juego-deconsola/bin
+/juego-deconsola/obj
+
+
 /vs-code
 /.vs
 /.vscode
